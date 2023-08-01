@@ -1,0 +1,8 @@
+{
+    "tag-return": "반환값",
+    "separator-dot": "・",
+    "header-items": "패키지 아이템",
+    "no-markup": "$1에서 Loxygen 문서 마크업을 찾지 못했습니다",
+    "tag-param": "{{plural:$1|매개변수|매개변수}}",
+    "header-documentation": "문서"
+}

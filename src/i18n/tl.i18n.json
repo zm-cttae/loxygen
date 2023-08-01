@@ -1,0 +1,14 @@
+{
+    "tag-warning": "{{plural:$1|Babala|Mga babala}}",
+    "optional": "opsyonal",
+    "tag-note": "{{plural:$1|Tala|Mga tala}}",
+    "tag-todo": "MGA GAWAIN",
+    "no-content": "Ang ''Luabsource code'' ay hindi mahanap sa $1",
+    "type-variable": "",
+    "tag-usage": "Paggamit",
+    "separator-dot": "&nbsp;• ",
+    "header-items": "Mga aytem sa package",
+    "no-markup": "Ang ''markup'' sa documentasyon para sa Docbuntu ay hindi mahanap sa $1",
+    "type-table": "talaan",
+    "parentheses": ""
+}
