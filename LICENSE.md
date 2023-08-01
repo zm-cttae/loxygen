@@ -670,3 +670,53 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+                        EXTERNAL ATTRIBUTIONS
+
+This article incorporates source code derived from the "Docbunto" module on the
+Fandom Developers Wiki at Fandom (formerly Wikia):
+https://dev.fandom.com/wiki/Module:Docbunto
+
+Docbunto is licensed under the Creative Commons Attribution-Share Alike License:
+https://www.fandom.com/licensing
+
+This project incorporates source code derived from the "I18n" module on the
+Fandom Developers Wiki at Fandom (formerly Wikia):
+https://dev.fandom.com/wiki/Module:I18n
+
+I18n is licensed under the Creative Commons Attribution-Share Alike License:
+https://www.fandom.com/licensing
+
+This project incorporates source code derived from the "Json" module on the
+Fandom Developers Wiki at Fandom (formerly Wikia):
+https://dev.fandom.com/wiki/Module:Json
+
+Json is licensed under the Creative Commons Attribution-Share Alike License:
+https://www.fandom.com/licensing
+
+This project incorporates source code derived from the "Fallbacklist" module on the
+Fandom Developers Wiki at Fandom (formerly Wikia):
+https://dev.fandom.com/wiki/Module:Fallbacklist
+
+Fallbacklist is licensed under the Creative Commons Attribution-Share Alike License:
+https://www.fandom.com/licensing
+
+This project incorporates source code derived from lua-lexer:
+https://github.com/LoganDark/lua-lexer
+
+Copyright (c) 2013-2021 Logan D., https://github.com/LoganDark.
+
+first-mate is distributed under the terms of the MIT License:
+https://github.com/LoganDark/lua-lexer/blob/master/LICENSE
+
+This project incorporates source code derived from inspect.lua:
+https://github.com/kikito/inspect.lua
+
+Copyright (c) 2011-2023 Enrique C., https://github.com/kikito.
+
+This project incorporates source code derived from the "Yesno" module on the
+Fandom Developers Wiki at Fandom (formerly Wikia):
+https://dev.fandom.com/wiki/Module:Yesno
+
+Yesno is licensed under the Creative Commons Attribution-Share Alike License:
+https://www.fandom.com/licensing
